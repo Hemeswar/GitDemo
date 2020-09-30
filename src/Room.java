@@ -13,7 +13,6 @@ public class Room implements Decorable{
 		//step1 is again staging 
 		
 		//step 2 is commit 
-		System.out.println("here it goes");
 	}
  
 }
