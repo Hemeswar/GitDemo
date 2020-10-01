@@ -6,7 +6,7 @@ public class Room implements Decorable{
 	public static void main(String[] args) {
 		System.out.println("Decorating room with Color: "+Room.color);
 		
-		
+		System.out.println("as as as");
 
 	
 		//step1 is again staging 
