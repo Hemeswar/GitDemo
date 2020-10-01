@@ -7,6 +7,8 @@ public class Room implements Decorable{
 		System.out.println("Decorating room with Color: "+Room.color);
 		
 		
+		int k;
+		int f;
 		
 		//step1 is again staging 
 		
